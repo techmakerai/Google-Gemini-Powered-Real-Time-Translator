@@ -1,7 +1,7 @@
 # Google Gemini Powered Real-Time Language Translator
 A real-time language translator built with Google's AI model Gemini Pro and Python. 
 
-This repository includes a Python program that can call Google Gemini Pro API to translate one language to another in real-time. This version has been tested on Windows 11.
+This repository includes a Python program that can call Google Gemini Pro API to translate one language to another in real time. This version has been tested on Windows 11.
 
 Please watch this YouTube video tutorial to learn more about this code:    
 [https://youtu.be/tXiIxjyaEtk ](https://youtu.be/n1l81Vv6qQI)   
@@ -18,5 +18,5 @@ If you have Python 3.12 or newer, also install the "setuptools" package,
 pip install setuptools
 ```
 
-For more information about the Google text-to-speech engine, see here     
+For more information about the Google text-to-speech engine (gTTS) and supported languages, see here     
 https://pypi.org/project/gTTS/
