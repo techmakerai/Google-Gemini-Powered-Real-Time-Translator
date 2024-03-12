@@ -17,3 +17,6 @@ If you have Python 3.12 or newer, also install the "setuptools" package,
 ```console
 pip install setuptools
 ```
+
+For more information about the Google text-to-speech engine, see here     
+https://pypi.org/project/gTTS/
